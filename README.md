@@ -1,5 +1,8 @@
 ### Hi there 👋
+🏫 I am currently studying in Semester 3 majoring Informatics/Computer Science, at Institut Teknologi Bandung (Bandung Institute of Technology), Indonesia
+👩‍💻 I have some skill in C, C#, Java, Python, Kotlin, and Android Development
 
+📧 You can freely contact me via email, bryanahusna@gmail.com
 <!--
 **bryanahusna/bryanahusna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
