@@ -1,5 +1,5 @@
 ### Hi there 👋
-🏫 I am currently studying in Semester 3 majoring Informatics/Computer Science, at Institut Teknologi Bandung (Bandung Institute of Technology), Indonesia
+🏫 I am currently studying in Semester 4 majoring Informatics/Computer Science, at Institut Teknologi Bandung (Bandung Institute of Technology), Indonesia
 
 👩‍💻 I have experiences in C, C++, C#, Java, Python, Kotlin, and Android Development
 
