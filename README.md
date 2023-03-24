@@ -1,7 +1,7 @@
 ### Hi there 👋
-🏫 I am currently studying in Semester 5 majoring Informatics/Computer Science, at Institut Teknologi Bandung (Bandung Institute of Technology), Indonesia
+🏫 I am currently studying in Semester 6 majoring Informatics/Computer Science, at Bandung Institute of Technology (ITB), Indonesia
 
-👩‍💻 I have experiences in Java, JavaScript, TypeScript, Node, Express, React, Python, C#, C++, C, Kotlin, and Android Development
+👩‍💻 I am skilled in Java, HTML, CSS, SQL, JavaScript, TypeScript, Node, Express, React, Python, C#, C++, C, Kotlin, and Android Development
 
 📧 You can freely contact me via email, bryanahusna@gmail.com
 <!--
