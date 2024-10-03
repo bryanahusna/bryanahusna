@@ -1,5 +1,5 @@
 ### Hi there 👋
-🏫 I am currently studying in Semester 8 majoring Informatics/Computer Science, at Bandung Institute of Technology (ITB), Indonesia
+🏫 I am Informatics/Computer Science graduate of Bandung Institute of Technology (ITB), Indonesia
 
 👩‍💻 I am skilled in Laravel, HTML/CSS/JavaScript, SQL, TypeScript, Node, Express, React, Java, Python, C#, C++, C, Kotlin, and Android Development
 
